@@ -5,17 +5,17 @@
 
 Gym exersises list:
 
-📝 add a task
-✅ check a task, when done.
-❌ delete a task
+* 📝 add a task
+* ✅ check a task, when done.
+* ❌ delete a task
 
 
 ### 🛠 Herramientas 
 
-Visual Studio Code
-HTML
-Java Script 
-Bootstrap
+* Visual Studio Code
+* HTML
+* Java Script 
+* Bootstrap
 
 
 ###  🎥 Demo 
